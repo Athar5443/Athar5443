@@ -1,30 +1,66 @@
-<h1>Hi 👋, I'm a AtharsCloud Developer</h1>
-<p></p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
-<a target="_blank" href="about:blank" style="display: inline-block;"><img src="https://nestjs.com/img/nest-og.png" alt="nestjs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=athar5443&show_icons=true&locale=en" alt="athar5443" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athar5443&" alt="athar5443" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=athar5443&show_icons=true&locale=en&layout=compact" alt="athar5443" /></p>
+<h1>Hi 👋, I am AtharsCloud Developer <img src="https://media.tenor.com/images/890e9c48a51bc2d645f9b7b8d769378f/tenor.gif" width="30" align="right"></h1>
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athar5443/athar5443/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/athar5443/athar5443/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/athar5443/athar5443/output/github-snake.svg" />
-  </picture>
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=100&color=00F7FF&width=435&lines=A+Full-Stack+Web+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=athar5443" alt="athar5443" /></a></p>
+
+<br>
+
+<p>I am a full-stack developer who is passionate about creating innovative and scalable solutions, especially in the areas of web and cloud applications. I am always interested in learning new technologies and contributing to open source projects.</p>
+
+---
+
+## 🛠️ Technology and Tools
+
+<p>
+    <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP"></code> 
+    <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go"></code> 
+    <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"></code> 
+    <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"></code> 
+    <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"></code> 
+    <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5"></code> 
+    <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3"></code> 
+    <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js"></code> 
+    <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express"></code> 
+    <code><img height="35" src="https://nestjs.com/img/nest-og.png" alt="NestJS"></code> 
+    <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"></code> 
+    <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"></code> 
+    <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"></code> 
+    <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker"></code> 
+    <code><img height="35" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"></code> 
+    <code><img height="35" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino"></code>
+</p>
+
+---
+
+## 📊 My GitHub Statistics
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=athar5443&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=athar5443&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrDwkt3D/giphy.gif" width="25"> Let's Connect!
+
+<p align="left">
+ <a href="https://https://wa.me/6281909789118" target="_blank"><img align="center" src="https://static.whatsapp.net/rsrc.php/yA/r/hbGnlm1gXME.svg" alt="wa.me/6281909789118" height="34" width="40" /></a>
+ <a href="https://github.com/athar5443" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="athar5443" height="30" width="40" /></a>
+ <a href="mailto:support@athars.tech" target="_blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="support@athars.tech" height="30" width="60" /></a>
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaVcz8FiOeAey/giphy.gif" width="25"> Proyek Terbaru
+
+<p>Sedang mengerjakan beberapa proyek menarik, detailnya akan segera hadir!</p>
+
+---
+
+<p align="center">
+ <img src="https://media.giphy.com/media/j2Yf5SO7wW16o/giphy.gif" width="60">
+</p>
