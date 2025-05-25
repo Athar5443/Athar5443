@@ -44,6 +44,14 @@
 </p>
 
 ---
+## My Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  </picture>
+</p>
 
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjBhOGhmNm1wMzVpMnF5MXh0anBjaTB1MTY4aHMzYXl2bnllbmVlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NGoc06FYWItmXuh2nh/giphy.gif" width="27"> Let's Connect!
 
