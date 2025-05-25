@@ -45,22 +45,10 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrDwkt3D/giphy.gif" width="25"> Let's Connect!
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjBhOGhmNm1wMzVpMnF5MXh0anBjaTB1MTY4aHMzYXl2bnllbmVlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NGoc06FYWItmXuh2nh/giphy.gif" width="27"> Let's Connect!
 
 <p align="left">
  <a href="https://https://wa.me/6281909789118" target="_blank"><img align="center" src="https://static.whatsapp.net/rsrc.php/yA/r/hbGnlm1gXME.svg" alt="wa.me/6281909789118" height="34" width="40" /></a>
  <a href="https://github.com/athar5443" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="athar5443" height="30" width="40" /></a>
  <a href="mailto:support@athars.tech" target="_blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="support@athars.tech" height="30" width="60" /></a>
-</p>
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaVcz8FiOeAey/giphy.gif" width="25"> Proyek Terbaru
-
-<p>Sedang mengerjakan beberapa proyek menarik, detailnya akan segera hadir!</p>
-
----
-
-<p align="center">
- <img src="https://media.giphy.com/media/j2Yf5SO7wW16o/giphy.gif" width="60">
 </p>
