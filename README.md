@@ -35,7 +35,7 @@
 
 ## 📊 My GitHub Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=athar5443)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=athar5443" alt="GitHub Streak" /></a>
 ---
 ## My Snake
 <p align="center">
