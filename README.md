@@ -35,14 +35,7 @@
 
 ## 📊 My GitHub Statistics
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=athar5443&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
- <img src="https://https://streak-stats.demolab.com/?user=athar5443&theme=dark" alt="GitHub Streak" />
-</p>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=athar5443)](https://git.io/streak-stats)
 ---
 ## My Snake
 <p align="center">
