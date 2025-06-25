@@ -11,25 +11,12 @@
 ---
 
 ## 🛠️ Technology and Tools
-
-<p>
-    <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP"></code> 
-    <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go"></code> 
-    <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"></code> 
-    <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"></code> 
-    <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"></code> 
-    <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5"></code> 
-    <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3"></code> 
-    <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js"></code> 
-    <code><img height="35" src="https://cdn.prod.website-files.com/6320125ace536b6ad148eca3/66502d746f57d299fe0e0c31_Image%201-Express.js.webp" alt="Express"></code> 
-    <code><img height="35" src="https://cloudkuimages.guru/uploads/images/683729ee9e35e.jpg" alt="NestJS"></code> 
-    <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"></code> 
-    <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"></code> 
-    <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"></code> 
-    <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker"></code> 
-    <code><img height="35" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"></code> 
-    <code><img height="35" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino"></code>
+<p align="left">
+ <a href="https://github.com/Athar5443">
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,vercel,mysql,redis,git,docker,linux,supabase,postgresql,go" />
+  </a>
 </p>
+
 
 ---
 
